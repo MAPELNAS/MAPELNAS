@@ -1,0 +1,40 @@
+{
+  "name": "MAPELNAS",
+  "short_name": "MAPELNAS",
+  "start_url": "https://mapelnas.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#01579b",
+  "theme_color": "#01579b",
+  "description": "Media Layanan Informasi Internet dan Pendidikan",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-GmELB0KiE1Q/X3WKEAprJXI/AAAAAAAAACI/o9WlI78Mf0ER6ZqvCuHPIn0ASjtKbjMDwCLcBGAsYHQ/s48/mapelnas-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-6iNWsI2S4AY/X3WKEmLvpvI/AAAAAAAAACM/avOLhXxhsAQZqyhYF7YRfRW9U7OLQBCjgCLcBGAsYHQ/s72/mapelnas-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-oeteSinwVGY/X3WKE4OeBbI/AAAAAAAAACQ/M04B7nLVpyYyp0K3yoC1X9r3or-ZfyVTQCLcBGAsYHQ/s96/mapelnas-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-LKG0-SAreQk/X3WKDSRDt7I/AAAAAAAAACE/mFSvENpMRnwCr3novu3iEPJZftE7LevdgCLcBGAsYHQ/s144/mapelnas-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-wReKk40MMYo/X3WKDHl2B2I/AAAAAAAAAB8/xFymO6pX5tcyXdngLQrMovG_mnUCy78iQCLcBGAsYHQ/s169/mapelnas-168x168.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "
+https://1.bp.blogspot.com/-n3MSuIAz7IM/X3WKDJQq1hI/AAAAAAAAACA/5EicBfRvySk1yHWzNN6UuZ2U3fow99NBQCLcBGAsYHQ/s192/mapelnas-192x192.png
+",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-WkECuKH5Ziw/X3WKGsUEKyI/AAAAAAAAACU/bsLwj4Oz93kSTtpfeqCdyPT_QJciKBUsQCLcBGAsYHQ/s512/mapelnas-512x512",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
